@@ -1,5 +1,5 @@
 # CypressMaka
-repo Test
+repo/Test/IA
 
 # README para Repositorio de Cypress
 
